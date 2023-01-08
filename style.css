@@ -1,0 +1,18 @@
+.heading{
+    box-shadow: grey;
+    padding: 2px;
+    margin: 4px;
+    color:pink
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.note{
+    font-size: 15px;
+    color: blue;
+    background-color: aqua;
+}
